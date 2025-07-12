@@ -1,1 +1,2 @@
 # SCT_DS_3
+This project focuses on building a Decision Tree Classifier using the Bank Marketing dataset. The goal was to predict whether a customer will subscribe to a term deposit based on their personal and campaign-related details. Key steps included data preprocessing (label encoding), splitting data into train/test sets, training the model, and visualizing the decision tree. Tools used: Pandas, Scikit-learn, and Matplotlib. This task was completed as part of my internship at SkillCraft Technology.
